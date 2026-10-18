@@ -1,0 +1,31 @@
+CustomerID,TransactionID,TransactionDate,Amount,ProductCategory,PaymentMethod
+778da54b-8f96-4609-a21b-bba3d7f071ea,022cfd97-a8e8-4e50-8700-2720d52bfd75,2022-08-23,586.87,Health & Beauty,PayPal
+778da54b-8f96-4609-a21b-bba3d7f071ea,022cfd97-a8e8-4e50-8700-2720d52bfd75,2022-08-23,,Health & Beauty,PayPal
+6a84f1a7-f636-4300-bd8d-c7f888460829,185ee140-348a-4461-bd40-07a7e8535815,2023-10-09,0.0,Health & Beauty,PayPal
+6a84f1a7-f636-4300-bd8d-c7f888460829,185ee140-348a-4461-bd40-07a7e8535815,2023-10-09,953.86,Health & Beauty,PayPal
+b94b3531-591d-445c-b282-dcacb0baca5b,27fb25aa-f148-423f-967c-4d1764e26b29,2024-04-18,-100.0,Automotive,Credit Card
+b94b3531-591d-445c-b282-dcacb0baca5b,27fb25aa-f148-423f-967c-4d1764e26b29,2022-07-30,506.96,Automotive,Credit Card
+e7cf6999-b4ec-4ce4-bb09-bfd18d61d933,2e0b66a9-af5d-4cf9-bb60-55ab2932edee,2023-05-10,504.42,Electronics,Bank Transfer
+e7cf6999-b4ec-4ce4-bb09-bfd18d61d933,2e0b66a9-af5d-4cf9-bb60-55ab2932edee,2023-05-10,-100.0,Electronics,Bank Transfer
+a9af986b-d677-421a-81df-3d289ce9e38f,5f93f1dc-0363-4e69-979b-f5d58fd42658,2023-09-30,-100.0,,Bank Transfer
+a9af986b-d677-421a-81df-3d289ce9e38f,5f93f1dc-0363-4e69-979b-f5d58fd42658,2023-09-30,125.77,,Bank Transfer
+8de3d5b9-1f1a-4bd7-b242-6cb09d7f3609,5fca256b-cd5a-48fa-8b07-37f39adde8c9,2023-05-17,-100.0,Clothing,Bank Transfer
+8de3d5b9-1f1a-4bd7-b242-6cb09d7f3609,5fca256b-cd5a-48fa-8b07-37f39adde8c9,2023-05-17,764.92,Clothing,Bank Transfer
+321acf6c-c401-4f7b-9835-bfb7cd5e48ff,62186b07-9cda-44c5-bf76-bdb0f97aaf39,2023-04-05,,Home & Garden,Bank Transfer
+321acf6c-c401-4f7b-9835-bfb7cd5e48ff,62186b07-9cda-44c5-bf76-bdb0f97aaf39,2023-02-04,,Home & Garden,Bank Transfer
+086370e7-8884-47d7-89b0-776401a43e1c,652636b6-5c72-44e1-aefb-6adce412ee75,2023-12-05,0.0,Electronics,Debit Card
+086370e7-8884-47d7-89b0-776401a43e1c,652636b6-5c72-44e1-aefb-6adce412ee75,2023-12-05,974.25,Electronics,Debit Card
+1ffded5f-b38d-45b7-943d-4100779c3599,6c2c5c2b-7601-41dc-9f56-4009de6f3cea,2023-05-10,591.61,Clothing,Debit Card
+1ffded5f-b38d-45b7-943d-4100779c3599,6c2c5c2b-7601-41dc-9f56-4009de6f3cea,2024-06-10,591.61,Clothing,Debit Card
+4aab54a1-b555-48ec-9b0f-0e87abdcc45b,7202af3a-448f-4970-9674-40f736cfdfde,2024-03-27,634.41,,PayPal
+4aab54a1-b555-48ec-9b0f-0e87abdcc45b,7202af3a-448f-4970-9674-40f736cfdfde,2023-02-26,634.41,,PayPal
+79fc606a-c02c-4c39-b065-3e88a59b366c,7fbe5cc4-a35e-4e8e-89d7-7b439659b9f6,2022-07-14,272.68,Clothing,Debit Card
+79fc606a-c02c-4c39-b065-3e88a59b366c,7fbe5cc4-a35e-4e8e-89d7-7b439659b9f6,2022-07-20,272.68,Clothing,Debit Card
+3ea377e6-1156-457e-8b4e-71fa6663e6bf,c751a808-ed8d-44d0-8c52-8253ad564c9a,2023-09-22,766.97,Health & Beauty,Credit Card
+3ea377e6-1156-457e-8b4e-71fa6663e6bf,c751a808-ed8d-44d0-8c52-8253ad564c9a,2023-09-22,-100.0,Health & Beauty,Credit Card
+24b043e8-6fca-4d86-95a8-837e0ca09072,dc9453eb-3922-4a5f-91c0-ccb226ca91f7,2023-06-01,446.84,Health & Beauty,Debit Card
+24b043e8-6fca-4d86-95a8-837e0ca09072,dc9453eb-3922-4a5f-91c0-ccb226ca91f7,2023-06-01,-100.0,Health & Beauty,Debit Card
+7c7df909-aa25-48c7-af9d-6ebe714b28b6,eb26a4f4-5af2-4e25-b1f2-fd0de5583f7b,2023-03-23,50.07,Automotive,Bank Transfer
+7c7df909-aa25-48c7-af9d-6ebe714b28b6,eb26a4f4-5af2-4e25-b1f2-fd0de5583f7b,2022-08-10,50.07,Automotive,Bank Transfer
+f05ec030-ac96-417d-a73c-e3ca3adc1a30,f39c8b1d-595a-4656-8108-25981bf3fa14,2024-03-05,252.7,Electronics,Debit Card
+f05ec030-ac96-417d-a73c-e3ca3adc1a30,f39c8b1d-595a-4656-8108-25981bf3fa14,2023-04-03,-100.0,Electronics,Debit Card

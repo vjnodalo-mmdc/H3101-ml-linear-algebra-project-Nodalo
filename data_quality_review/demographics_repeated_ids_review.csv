@@ -1,0 +1,47 @@
+CustomerID,Age,Gender,Location,IncomeLevel,SignupDate
+08995799-8d0f-40d6-986b-452074709b5f,61.0,Male,New Lukeville,Medium,2020-03-28
+08995799-8d0f-40d6-986b-452074709b5f,61.0,Male,New Lukeville,Medium,2019-11-15
+1e9e7dcb-e612-46d3-bae6-0c2f47fa0220,44.0,Female,Brianmouth,Medium,2019-11-07
+1e9e7dcb-e612-46d3-bae6-0c2f47fa0220,44.0,Female,Brianmouth,Medium,2022-07-28
+29436bcf-d6f8-44d1-a856-0794abb562ab,68.0,Female,New Fred,Low,2020-03-12
+29436bcf-d6f8-44d1-a856-0794abb562ab,68.0,Female,New Fred,Low,2021-09-01
+2cd16dfc-d7b0-47ec-9999-b018daea7f8d,52.0,Female,Lake Carloshaven,Medium,2024-05-02
+2cd16dfc-d7b0-47ec-9999-b018daea7f8d,,Female,Lake Carloshaven,Medium,2024-05-02
+3814b8e4-cade-4665-86af-dda3e3628f17,32.0,Female,Port Bonnieshire,Medium,2021-06-25
+3814b8e4-cade-4665-86af-dda3e3628f17,,Female,Port Bonnieshire,Medium,2021-06-25
+48313b18-ccdb-4946-b958-1ebfc92dcc2a,59.0,Male,South Andrea,High,2020-02-26
+48313b18-ccdb-4946-b958-1ebfc92dcc2a,,Male,South Andrea,High,2020-02-26
+50465bde-6a9a-466d-804a-a8f046809a23,,Male,Harrismouth,High,2023-08-02
+50465bde-6a9a-466d-804a-a8f046809a23,35.0,Male,Harrismouth,High,2023-08-02
+5050eefe-2392-4d18-b4b6-913d42b9f62b,20.0,Female,Alexanderstad,High,2021-02-20
+5050eefe-2392-4d18-b4b6-913d42b9f62b,,Female,Alexanderstad,High,2021-02-20
+6b2f8f03-ab9e-48a6-a07e-10e794b04fe0,,Male,Lake Karen,Low,2023-04-04
+6b2f8f03-ab9e-48a6-a07e-10e794b04fe0,65.0,Male,Lake Karen,Low,2023-04-04
+7544489f-ec7e-48af-bec6-b6eab94a6e5c,,Male,South Jared,High,2024-03-02
+7544489f-ec7e-48af-bec6-b6eab94a6e5c,64.0,Male,South Jared,High,2024-03-02
+76c1d696-0f1c-44b5-b749-8859545658eb,34.0,Female,South Frankside,High,2020-05-14
+76c1d696-0f1c-44b5-b749-8859545658eb,,Female,South Frankside,High,2020-05-14
+7eb7f7df-9b0a-416a-829e-bcf4d8bd57dc,55.0,Male,New Anthonyland,High,2021-01-07
+7eb7f7df-9b0a-416a-829e-bcf4d8bd57dc,55.0,Male,New Anthonyland,High,2022-07-23
+83355281-fda3-4776-9f9d-a812243c3b56,31.0,Female,Ashleychester,Medium,2022-02-23
+83355281-fda3-4776-9f9d-a812243c3b56,31.0,Female,Ashleychester,Medium,2024-04-15
+835384f5-c976-481d-8961-cc827dc62c6b,60.0,Male,Stricklandport,High,2019-07-01
+835384f5-c976-481d-8961-cc827dc62c6b,60.0,Male,Stricklandport,High,2023-09-30
+890f10ce-36f6-4993-9a2e-a00dfdf01609,33.0,Female,Denisehaven,Low,2022-09-04
+890f10ce-36f6-4993-9a2e-a00dfdf01609,33.0,Female,Denisehaven,Low,2021-05-27
+89ca5faa-aba9-4b14-b3cd-cc6bf7fd95a2,55.0,Female,New Michael,Low,2022-03-03
+89ca5faa-aba9-4b14-b3cd-cc6bf7fd95a2,55.0,Female,New Michael,Low,2024-01-18
+9612ee49-09dd-4f55-9524-9eb341efa2b9,,Male,North Breanna,High,2020-07-30
+9612ee49-09dd-4f55-9524-9eb341efa2b9,28.0,Male,North Breanna,High,2020-07-30
+b72f2a59-aab0-447d-bb31-9bdc1405cc72,34.0,Female,West Jason,High,2024-06-10
+b72f2a59-aab0-447d-bb31-9bdc1405cc72,34.0,Female,West Jason,High,2021-09-19
+bb07fa4a-8680-4b77-b1ad-5d2f67570252,52.0,Male,Port Davidtown,High,2019-08-06
+bb07fa4a-8680-4b77-b1ad-5d2f67570252,52.0,Male,Port Davidtown,High,2020-11-06
+bbe76a26-234f-4a70-b71f-fa9b183f6353,57.0,Male,Gregoryfurt,High,2020-06-23
+bbe76a26-234f-4a70-b71f-fa9b183f6353,,Male,Gregoryfurt,High,2020-06-23
+bbf7c36f-3745-4d3a-9e33-f927c2755f65,45.0,Female,Roberttown,Medium,2019-07-07
+bbf7c36f-3745-4d3a-9e33-f927c2755f65,45.0,Female,Roberttown,Medium,2023-02-17
+c2351d11-59fe-4630-a6df-e01bc343de33,68.0,Female,East Pamela,,2022-06-15
+c2351d11-59fe-4630-a6df-e01bc343de33,68.0,Female,East Pamela,,2022-02-04
+ce5cf079-859b-43fa-9609-c6bb7e12c6b7,41.0,Female,Adrianhaven,Low,2024-01-10
+ce5cf079-859b-43fa-9609-c6bb7e12c6b7,,Female,Adrianhaven,Low,2024-01-10
